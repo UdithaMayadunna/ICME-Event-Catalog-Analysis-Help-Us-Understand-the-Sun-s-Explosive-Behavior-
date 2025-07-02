@@ -1,5 +1,6 @@
 # ICME-Event Catalog Analysi -Help Us Understand the Suns Explosive Behavior-
 Welcome to the ICME Event Catalog Analysis Project , a collaborative effort to analyze and visualize patterns in interplanetary coronal mass ejections (ICMEs) from spacecraft observations.
+
 🛰️ Project Goal:
 Leverage the data in icme_event_catalog.csv to uncover trends, correlations, and insights related to solar activity, space weather impacts, and interplanetary dynamics.
 
